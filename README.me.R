@@ -1,5 +1,7 @@
 #These are the steps taken to generate the proprietary calculated metrics
 
+Live Google doc is here: https://docs.google.com/document/d/1YNnyzyfAGULTi-MvvRZwMsKbVyFbpPnn1VAJt4QY0vs/edit
+
 Capital Disbursement Data for 2018 does not appear to be released (03/31/2020)  
 
 Process: 
